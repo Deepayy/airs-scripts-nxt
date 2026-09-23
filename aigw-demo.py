@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-AI Gateway demo and validation script (Next POV tenant)
+AI Gateway demo and validation script (POV tenant)
 
 Sections:
   1  LLM calls through the gateway (clean traffic, tokens, latency)
